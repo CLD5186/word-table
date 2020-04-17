@@ -1,0 +1,20 @@
+
+.c-container{
+  padding: 8px;
+}
+.c-row {
+  display: flex;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: -1px;
+  /* width: 100%; */
+}
+.c-content {
+  display: flex;
+  flex-grow: 1;
+  border-right: 1px solid #ccc;
+  margin-right: -1px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}

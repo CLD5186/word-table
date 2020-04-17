@@ -1,0 +1,11 @@
+.word-tree{
+  position: absolute;
+  top: 90px;
+  left: 2.5%;
+  right: 2.5%;
+  min-height: 680px;
+  background: #fff;
+  margin-bottom: 20px;
+  padding: 8px;
+  width: 300px;
+}
